@@ -1,0 +1,8 @@
+[submodule "tesllaaa.github.io"]
+	path = tesllaaa.github.io
+	url = git@github.com:tesllaaa/tesllaaa.github.io.git
+	branch = main
+[submodule "public"]
+	path = public
+	url = git@github.com:tesllaaa/tesllaaa.github.io.git
+	branch = main
